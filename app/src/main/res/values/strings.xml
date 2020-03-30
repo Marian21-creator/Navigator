@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aqua</string>
+    <string name="park">mapbox://styles/marian21/ck8bko2ws0zge1io7hcidgxqg</string>
+    <string name="water">mapbox://styles/marian21/ck8cylfrr1wo71ippz4ghvu5b</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoibWFyaWFuMjEiLCJhIjoiY2s4NXhoZWh5MGFibDNubzdnMjQ1YjllZCJ9.XBpIzWpfQt2IQTo_gTq4mA</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
